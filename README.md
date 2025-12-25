@@ -42,6 +42,7 @@ Mood: Calm and peaceful
 
 
 https://github.com/user-attachments/assets/dcd8b4d6-c0c8-428e-8033-6c0e657c4c11
+
 Prompt 2:
 “An 8-second futuristic video showing a glowing AI robot working on a holographic screen in a modern tech lab. Blue and white lights illuminate the scene. The camera slowly pans from left to right while digital data animations float in the air. Clean, high-tech style with smooth motion and sharp details.”
 
