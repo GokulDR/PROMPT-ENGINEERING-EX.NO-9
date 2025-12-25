@@ -1,7 +1,7 @@
 [Exp10_Content_Creation_Using_Prompt_Patterns (1).docx](https://github.com/user-attachments/files/24339504/Exp10_Content_Creation_Using_Prompt_Patterns.1.docx)# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 
-# Register no.:
+# Register no.:25017732
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
