@@ -31,14 +31,22 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 Output:
-#Input and Output:
-#Video Generation:
-#Prompt 1:
+Input and Output:
+Video Generation:
+Prompt 1:
 “An 8-second cinematic video of a calm sunrise over green mountains. Soft golden sunlight slowly spreads across the landscape, light mist moving gently between the hills. The camera performs a slow forward motion, creating a peaceful and realistic atmosphere. High detail, natural colors, smooth motion, cinematic lighting.”
 Duration: 8 seconds
 Style: Cinematic, realistic
 Mood: Calm and peaceful
-https://github.com/user-attachments/assets/e3d47dbb-07b9-447e-bd08-e3e6ebd384c2
+
+
+
+https://github.com/user-attachments/assets/dcd8b4d6-c0c8-428e-8033-6c0e657c4c11
+
+
+
+
+
 
 
 
