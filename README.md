@@ -30,10 +30,8 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
-Content Quality Impact Visualization:
-<img width="1024" height="1536" alt="ChatGPT Image Dec 25, 2025, 09_34_30 PM" src="https://github.com/user-attachments/assets/d1bdd36e-527b-4c00-b128-44a52b000d01" />
 Output:
-[Gokul D R (25017732)EX 10.docx](https://github.com/user-attachments/files/24339510/Gokul.D.R.25017732.EX.10.docx)
+
 
 # Result: The Prompt of the above task executed successfully
 
